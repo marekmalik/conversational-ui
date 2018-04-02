@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://marekmalik.github.io/conversational-ui/post/tym/</loc>
+    <lastmod>2018-04-02T19:08:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://marekmalik.github.io/conversational-ui/post/conversational-ui/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://marekmalik.github.io/conversational-ui/post/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-02T19:08:39+02:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://marekmalik.github.io/conversational-ui/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-02T19:08:39+02:00</lastmod>
   </url>
   
   <url>
@@ -81,6 +86,12 @@
   <url>
     <loc>https://marekmalik.github.io/conversational-ui/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marekmalik.github.io/conversational-ui/tags/t%C3%BDm/</loc>
+    <lastmod>2018-04-02T19:08:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   

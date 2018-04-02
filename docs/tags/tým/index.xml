@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tým on Conversational UI</title>
+    <link>https://marekmalik.github.io/conversational-ui/tags/t%C3%BDm/</link>
+    <description>Recent content in Tým on Conversational UI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 02 Apr 2018 19:08:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://marekmalik.github.io/conversational-ui/tags/t%C3%BDm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tym</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/tym/</link>
+      <pubDate>Mon, 02 Apr 2018 19:08:39 +0200</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/post/tym/</guid>
+      <description>Marek Malík Marek Malík se zabývá oblastí User Experience a jeho dílčími obory, jako jsou informační architektura, interakční design, UI design a další. Conversational UI ho zajímá především z pohledu UX a protože vnímá, že se tímto směrem ubírá trend budoucnosti.
+Kryštof Davídek Kryštof Davídek se o problematiku Conversational UI dříve nezajímal, a proto je pro něj tohle téma výzva, každopádně fenomén dialogových systémů bere jako zajímavou součást aktuálních technologií a rád se o tomto tématu dozví prostřednictvím toho tématu více.</description>
+    </item>
+    
+  </channel>
+</rss>
