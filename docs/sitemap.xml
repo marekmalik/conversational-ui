@@ -18,10 +18,6 @@
   </url>
   
   <url>
-    <loc>https://marekmalik.github.io/conversational-ui/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://marekmalik.github.io/conversational-ui/post/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -70,6 +66,10 @@
     <loc>https://marekmalik.github.io/conversational-ui/tags/hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marekmalik.github.io/conversational-ui/about/</loc>
   </url>
   
   <url>

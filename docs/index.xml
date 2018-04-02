@@ -45,20 +45,14 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>About Conversational UI</title>
+      <title>O projektu</title>
       <link>https://marekmalik.github.io/conversational-ui/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/about/</guid>
-      <description>Cílovoá skupina &amp;hellip;
-Cíl webu &amp;hellip;
-Strategie zveřejňování &amp;hellip;
-Název webu &amp;hellip;
-Základní obsah k tématu &amp;hellip;
-Webové zdroje &amp;hellip;
-Knižní zdroje &amp;hellip;
-Multimédia &amp;hellip;
-Vizuální inspirace &amp;hellip;</description>
+      <description>Název webu Co je Conversational UI a proč by nás to mělo zajímat
+Cílovoá skupina Naší cílovou skupinou je široká veřejnost, která o tomto tématu hledá základní informace.
+Cíl webu Cílem našeho webu je poskytnout jasný a strukturovaný úvod do problematiky Conversational UI. Rádi bychom se na toto téma zaměřili z několika perspektiv. Nejprve popíšeme, jak tyto technologie fungují z technické stránky věci, a dále tento fenomén představíme na konkrétních případech v rámci jednotlivých implementací.</description>
     </item>
     
   </channel>
