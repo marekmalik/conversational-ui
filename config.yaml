@@ -2,6 +2,7 @@ title: Conversational UI
 baseURL: https://marekmalik.github.io/conversational-ui/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117947191-1
 
 menu:
   main:
