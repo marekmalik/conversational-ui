@@ -1,5 +1,6 @@
 ---
 title: Open Data for Project Conversation
+date: 2018-04-17T17:55:50+02:00	
 ---
 
 ## Webové zdroje - data
