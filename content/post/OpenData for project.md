@@ -1,8 +1,5 @@
 ---
 title: Open Data for Project Conversation
-menu:
-  main:
-    weight: 30
 ---
 
 ## Webové zdroje - data
