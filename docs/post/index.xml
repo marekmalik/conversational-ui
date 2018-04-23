@@ -54,5 +54,14 @@ PĹ™Ă­spÄ›vek sdĂ­lenĂ˝ Mrinalini Sardar (@mrinalini_sardar), Ăšno 
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
     </item>
     
+    <item>
+      <title>Open Data for Project Conversation</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/opendata-for-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/post/opendata-for-project/</guid>
+      <description>Webové zdroje - data  Dialogový systém. CzechEncy [online]. [cit. 2018-04-02]. Dostupné z: https://www.czechency.org/slovnik/DIALOGOV%C3%9D%20SYST%C3%89M Dialog system. Wikipedia [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://en.wikipedia.org/wiki/Dialog_system The Conversational UI and Why it Matters [online]. [cit. 2018-04-02]. Dostupné z: https://developers.google.com/actions/downloads/get-started.pdf What is a Conversational UI and why does it matter?. Chat Bots Magazine [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://chatbotsmagazine.com/what-is-a-conversational-ui-and-why-it-matters-de358507b9a2 Designing and validating a Conversational UI. UX Planet [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://uxplanet.</description>
+    </item>
+    
   </channel>
 </rss>
