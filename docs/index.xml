@@ -6,10 +6,25 @@
     <description>Recent content in Home on Conversational UI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 17 Apr 2018 17:55:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://marekmalik.github.io/conversational-ui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Co to je dialogový systém</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/dialogov%C3%BD-syst%C3%A9m/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/post/dialogov%C3%BD-syst%C3%A9m/</guid>
+      <description>Dialogový systém Dialogový systém je počítačový program, jehož účelem je komunikovat s člověkem pomocí mluvené řeči.
+Hlasové dialogové systémy mají široké možnosti uplatnění, kterými jsou např. automatizace hlasových kontaktních center, interaktivní zábava, výuka jazyků, pomoc hendikepovaným a aplikace, kde jsou jiné ovládací a prezentační možnosti zařízení omezené
+Typicky se tyto systémy skládají z těchto komponentů:
+ rozpoznání mluvené řeči
+ porozumění přirozenému jazyku
+ řízení dialogu
+ generování odezvy</description>
+    </item>
     
     <item>
       <title>Open Data for Project Conversation</title>
