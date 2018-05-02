@@ -63,5 +63,14 @@ PĹ™Ă­spÄ›vek sdĂ­lenĂ˝ Mrinalini Sardar (@mrinalini_sardar), Ăšno 
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
     </item>
     
+    <item>
+      <title>Článek - Co je to Conversational UI</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/post/article/</guid>
+      <description>Co je to Conversational UI Mnoho vědců je přesvědčeno, že Conversational AI brzy bude prioritou vývojářů, která bude převážně důležitější než projekty zaměřené na cloudové a mobilní projekty. Chatboty - postavené na základě kontejnerových mikroservisů a připojení k systémům back-end jsou nejen snadným způsobem, jak se rozbít do konverzačních uživatelských rozhraní, jsou to onrampy pro budování a školení umělé inteligence. Co je konverzní uživatelské rozhraní? Konverzační uživatelské rozhraní poskytuje oprávnění interagovat s počítačem za lidských podmínek.</description>
+    </item>
+    
   </channel>
 </rss>
