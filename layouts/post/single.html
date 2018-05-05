@@ -1,6 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
+  <!-- Implementace Social Share Buttons od AddThis -->
   {{ partial "addthis" . }}
   {{ .Content }}
   {{ partial "addthis-script" . }}
