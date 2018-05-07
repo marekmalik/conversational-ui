@@ -13,12 +13,12 @@
     
     <item>
       <title>Co to je dialogový systém?</title>
-      <link>https://marekmalik.github.io/conversational-ui/post/dialogov%C3%BD-syst%C3%A9m/</link>
+      <link>https://marekmalik.github.io/conversational-ui/post/co-to-je-dialogovy-system/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://marekmalik.github.io/conversational-ui/post/dialogov%C3%BD-syst%C3%A9m/</guid>
+      <guid>https://marekmalik.github.io/conversational-ui/post/co-to-je-dialogovy-system/</guid>
       <description>Dialogový systém je počítačový program, jehož účelem je komunikovat s člověkem pomocí mluvené řeči.
-Hlasové dialogové systémy mají široké možnosti uplatnění, kterými jsou např. automatizace hlasových kontaktních center, interaktivní zábava, výuka jazyků, pomoc hendikepovaným a aplikace, kde jsou jiné ovládací a prezentační možnosti zařízení omezené
+Hlasové dialogové systémy mají široké možnosti uplatnění, kterými jsou např. automatizace hlasových kontaktních center, interaktivní zábava, výuka jazyků, pomoc hendikepovaným a aplikace, kde jsou jiné ovládací a prezentační možnosti zařízení omezené.
 Typicky se tyto systémy skládají z těchto komponentů:
  rozpoznání mluvené řeči
  porozumění přirozenému jazyku
@@ -28,31 +28,31 @@ Typicky se tyto systémy skládají z těchto komponentů:
     </item>
     
     <item>
-      <title>Kde všude se běžně setáváme s Conversational UI</title>
+      <title>Kde všude se běžně setkáváme s Conversational UI</title>
       <link>https://marekmalik.github.io/conversational-ui/post/cnv-ui/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/post/cnv-ui/</guid>
-      <description>Konverzační uživatlskté rozhraní je běžnou součástí našeho každodenního života, často o tom ani nevíme. Jedná se nejčastěji o hlasové asistenty v našich telefonech, jako jsou například Google Assistent, Siri, Cortana. Může se však jednat o chatbota na Vašem oblíbeném webu, kde rádi nakupujete. Může Vám doporučit zboží, které by Vás mohlo zajímat nebo dokonce poradit s nákupem. Ne že by Vám řekl, co domů potřebujete, ale spíš Vám pomůže vyřídit objednávku, případně Vás odkáže na jinou pomoc.</description>
+      <description>Konverzační uživatelské rozhraní je běžnou součástí našeho každodenního života, často o tom ani nevíme. Jedná se nejčastěji o hlasové asistenty v našich telefonech, jako jsou například Google Assistent, Siri, Cortana. Může se však jednat o chatbota na Vašem oblíbeném webu, kde rádi nakupujete. Může Vám doporučit zboží, které by Vás mohlo zajímat nebo dokonce poradit s nákupem. Ne že by Vám řekl, co domů potřebujete, ale spíš Vám pomůže vyřídit objednávku, případně Vás odkáže na jinou pomoc.</description>
     </item>
     
     <item>
-      <title>Open Data for Project Conversation</title>
-      <link>https://marekmalik.github.io/conversational-ui/post/opendata-for-project/</link>
+      <title>Open Data pro náš projekt</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/open-data-pro-nas-projekt/</link>
       <pubDate>Tue, 17 Apr 2018 17:55:50 +0200</pubDate>
       
-      <guid>https://marekmalik.github.io/conversational-ui/post/opendata-for-project/</guid>
-      <description>Webové zdroje - data  Dialogový systém. CzechEncy [online]. [cit. 2018-04-02]. Dostupné z: https://www.czechency.org/slovnik/DIALOGOV%C3%9D%20SYST%C3%89M Dialog system. Wikipedia [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://en.wikipedia.org/wiki/Dialog_system The Conversational UI and Why it Matters [online]. [cit. 2018-04-02]. Dostupné z: https://developers.google.com/actions/downloads/get-started.pdf What is a Conversational UI and why does it matter?. Chat Bots Magazine [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://chatbotsmagazine.com/what-is-a-conversational-ui-and-why-it-matters-de358507b9a2 Designing and validating a Conversational UI. UX Planet [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://uxplanet.</description>
+      <guid>https://marekmalik.github.io/conversational-ui/post/open-data-pro-nas-projekt/</guid>
+      <description>Webové zdroje  Dialogový systém. CzechEncy [online]. [cit. 2018-04-02]. Dostupné z: https://www.czechency.org/slovnik/DIALOGOV%C3%9D%20SYST%C3%89M Dialog system. Wikipedia [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://en.wikipedia.org/wiki/Dialog_system The Conversational UI and Why it Matters [online]. [cit. 2018-04-02]. Dostupné z: https://developers.google.com/actions/downloads/get-started.pdf What is a Conversational UI and why does it matter?. Chat Bots Magazine [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://chatbotsmagazine.com/what-is-a-conversational-ui-and-why-it-matters-de358507b9a2 Designing and validating a Conversational UI. UX Planet [online]. 2017 [cit. 2018-04-02]. Dostupné z: https://uxplanet.</description>
     </item>
     
     <item>
-      <title>Tym</title>
+      <title>Tým</title>
       <link>https://marekmalik.github.io/conversational-ui/post/tym/</link>
       <pubDate>Mon, 02 Apr 2018 19:08:39 +0200</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/post/tym/</guid>
-      <description>Marek Malík Marek Malík se zabývá oblastí User Experience a jeho dílčími obory, jako jsou informační architektura, interakční design, UI design a další. Conversational UI ho zajímá především z pohledu UX a protože vnímá, že se tímto směrem ubírá trend budoucnosti.
-Kryštof Davídek Kryštof Davídek se o problematiku Conversational UI dříve nezajímal, a proto je pro něj tohle téma výzva, každopádně fenomén dialogových systémů bere jako zajímavou součást aktuálních technologií a rád se o tomto tématu dozví prostřednictvím toho tématu více.</description>
+      <description>Marek Malík Marek Malík se zabývá oblastí User Experience a jeho dílčími obory, jako jsou informační architektura, interakční design, UI design a další. Conversational UI ho zajímá především z pohledu UX, a protože vnímá, že se tímto směrem ubírá trend budoucnosti.
+Kryštof Davídek Kryštof Davídek se o problematiku Conversational UI dříve nezajímal, a proto je pro něj tohle téma výzva, každopádně fenomén dialogových systémů bere jako zajímavou součást aktuálních technologií a rád se o tomto tématu dozví prostřednictvím tohoto projektu více.</description>
     </item>
     
     <item>
@@ -77,23 +77,25 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
+      <title>Co je to Conversational UI</title>
+      <link>https://marekmalik.github.io/conversational-ui/post/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/post/article/</guid>
+      <description>Co je to Conversational UI Mnoho vědců je přesvědčeno, že Conversational AI brzy bude prioritou vývojářů, která bude převážně důležitější než projekty zaměřené na cloudové a mobilní projekty. Chatboti – postavené na základě kontejnerových mikroservisů a připojení k systémům back-end – jsou nejen snadným způsobem, jak se rozbít do konverzačních uživatelských rozhraní, jsou to onrampy pro budování a školení umělé inteligence.
+Co je konverzační uživatelské rozhraní?
+Konverzační uživatelské rozhraní poskytuje oprávnění interagovat s počítačem za lidských podmínek.</description>
+    </item>
+    
+    <item>
       <title>O projektu</title>
       <link>https://marekmalik.github.io/conversational-ui/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/about/</guid>
-      <description>Název webu Co je Conversational UI a proč by nás to mělo zajímat
-Cílovoá skupina Naší cílovou skupinou je široká veřejnost, která o tomto tématu hledá základní informace.
+      <description>Název webu Co je Conversational UI a proč by nás to mělo zajímat.
+Cílová skupina Naší cílovou skupinou je široká veřejnost, která o tomto tématu hledá základní informace.
 Cíl webu Cílem našeho webu je poskytnout jasný a strukturovaný úvod do problematiky Conversational UI. Rádi bychom se na toto téma zaměřili z několika perspektiv. Nejprve popíšeme, jak tyto technologie fungují z technické stránky věci, a dále tento fenomén představíme na konkrétních případech v rámci jednotlivých implementací.</description>
-    </item>
-    
-    <item>
-      <title>Článek - Co je to Conversational UI</title>
-      <link>https://marekmalik.github.io/conversational-ui/post/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marekmalik.github.io/conversational-ui/post/article/</guid>
-      <description>Co je to Conversational UI Mnoho vědců je přesvědčeno, že Conversational AI brzy bude prioritou vývojářů, která bude převážně důležitější než projekty zaměřené na cloudové a mobilní projekty. Chatboty - postavené na základě kontejnerových mikroservisů a připojení k systémům back-end jsou nejen snadným způsobem, jak se rozbít do konverzačních uživatelských rozhraní, jsou to onrampy pro budování a školení umělé inteligence. Co je konverzní uživatelské rozhraní? Konverzační uživatelské rozhraní poskytuje oprávnění interagovat s počítačem za lidských podmínek.</description>
     </item>
     
   </channel>
