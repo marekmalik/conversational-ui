@@ -23,5 +23,4 @@ Typicky se tyto systémy skládají z těchto komponentů:
 
 Tyto technologie si uvádíme proto, jelikož jsou obsaženy ve většině Conversastional UI a pro dostatečné pochopení určitých funkcionalit jsou fundamentální.
  
-<p style="text-align:center"><img src="https://cdn.pixabay.com/photo/2016/11/09/03/19/communication-1809935_1280.png"
-     style="width:50em; height:30em;" /></p>
+![](communication-1809935_1280.png)
