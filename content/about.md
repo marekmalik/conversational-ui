@@ -7,9 +7,9 @@ menu:
 
 ## Název webu
 
-Co je Conversational UI a proč by nás to mělo zajímat
+Co je Conversational UI a proč by nás to mělo zajímat.
 
-## Cílovoá skupina
+## Cílová skupina
 
 Naší cílovou skupinou je široká veřejnost, která o tomto tématu hledá základní informace.
 
@@ -26,7 +26,7 @@ Cílem našeho webu je poskytnout jasný a strukturovaný úvod do problematiky 
 1. Představení tématu
 2. Základní terminologie
 3. Fundamentální popis
-4. Informatické pozadí
+4. Technické pozadí
 5. Konkrétní příklad č. 1
 6. Konkrétní příklad č. 2
 7. Konkrétní příklad č. 3
