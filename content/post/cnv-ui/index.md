@@ -1,17 +1,17 @@
 ---
-title:  "Kde všude se běžně setáváme s Conversational UI"
+title:  "Kde všude se běžně setkáváme s Conversational UI"
 date:   2018-05-02
 draft: false
 ---
 
-## Konverzační uživatlskté rozhraní je běžnou součástí našeho každodenního života, často o tom ani nevíme.
+## Konverzační uživatelské rozhraní je běžnou součástí našeho každodenního života, často o tom ani nevíme.
 
 Jedná se nejčastěji o hlasové asistenty v našich telefonech, jako jsou například Google Assistent, Siri, Cortana. Může se však jednat o chatbota na Vašem oblíbeném webu, kde rádi nakupujete. Může Vám doporučit zboží, které by Vás mohlo zajímat nebo dokonce poradit s nákupem. Ne že by Vám řekl, co domů potřebujete, ale spíš Vám pomůže vyřídit objednávku, případně Vás odkáže na jinou pomoc.
 
 ![Google Assistent](image.jpg)
 
 
-Hlasového asistenta Google máte na každém zařízení s Adroidem. Aktivovat ho můžete tak, že při odemčeném zařízení řeknete "OK Google" a pak příkaz, který chcete aby vykonal.
+Hlasového asistenta Google máte na každém zařízení s Adroidem. Aktivovat ho můžete tak, že při odemčeném zařízení řeknete „OK Google“ a pak příkaz, který chcete, aby vykonal.
 
 Nejčastěji používám příkazy jako:
 
