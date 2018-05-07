@@ -48,5 +48,6 @@ aside nav li a {
 }
 aside nav li a:hover {
 	background-color: #111;
+	color: orange;
 }
 aside nav li:last-child {display: none;}
