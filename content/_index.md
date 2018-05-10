@@ -2,26 +2,13 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# Vítejte na našem webu
 
-This are the contents of the Hugo start website front page.
+Tato webová stránka je vytvořena v rámci školního projektu do předmětu „Nástroje a možnosti Internetu“ (FF:VIKBA07), a proto veškerý obsah berte z rezervou jako experiment – „Jak naučit filďáky dělat web.“
 
-## Something to read: Sonnet LXVI.
+## Conversational UI
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Jak je z nadpisu patrno, na těchto stránkách najdete informace o fenoménu „Conversational UI“, pokud byste měli jakékoliv návrhy na články, napište na e-mail kry.davidek@gmail.com. S kritkou se prosím obraťe na xmalik2@gmail.com.
+
+Věříme, že pro Vás tento web bude inspirativní cestou k poznání.
 
