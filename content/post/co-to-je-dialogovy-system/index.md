@@ -1,5 +1,5 @@
 ---
-title:  "Co to je dialogový systém?"
+title:  "Co to je dialogový systém"
 date:   2018-05-02
 tags: 
     - conversastional ui

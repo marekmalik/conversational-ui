@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://marekmalik.github.io/conversational-ui/post/another-post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://marekmalik.github.io/conversational-ui/post/welcome-to-hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -38,29 +33,17 @@
   </url>
   
   <url>
-    <loc>https://marekmalik.github.io/conversational-ui/tags/beatles/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://marekmalik.github.io/conversational-ui/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marekmalik.github.io/conversational-ui/post/article/</loc>
+    <loc>https://marekmalik.github.io/conversational-ui/post/co-je-to-conversational-ui/</loc>
   </url>
   
   <url>
     <loc>https://marekmalik.github.io/conversational-ui/tags/conversastional-ui/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://marekmalik.github.io/conversational-ui/tags/data/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +82,7 @@
   
   <url>
     <loc>https://marekmalik.github.io/conversational-ui/tags/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
