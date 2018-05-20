@@ -17,17 +17,17 @@ header h1 {
 }
 header p {margin-top: 0;}
 header {
-	border-bottom: 1px solid;
+	border-bottom: none;
 	text-align: center;
-	padding: 0 0 30px 0;
+	padding: 0;
 }
 .page {
 	border-left: none;
 	width: 100%;
 }
 footer {border-top: 1px solid;}
-aside {width: 100%;}
-aside nav ul {
+nav {width: 100%;}
+nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -35,19 +35,18 @@ aside nav ul {
 	background-color: #333;
 	color: white;
 }
-aside nav li {
+nav li {
 	float: left;
 	margin-bottom: 0;
 }
-aside nav li a {
+nav li a {
 	display: block;
 	color: white;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
-aside nav li a:hover {
+nav li a:hover {
 	background-color: #111;
 	color: orange;
 }
-aside nav li:last-child {display: none;}

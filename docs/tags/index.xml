@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Conversational UI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://marekmalik.github.io/conversational-ui/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beatles</title>
+      <link>https://marekmalik.github.io/conversational-ui/tags/beatles/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/tags/beatles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conversastional Ui</title>
@@ -17,6 +26,15 @@
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/tags/conversastional-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://marekmalik.github.io/conversational-ui/tags/data/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marekmalik.github.io/conversational-ui/tags/data/</guid>
       <description></description>
     </item>
     
