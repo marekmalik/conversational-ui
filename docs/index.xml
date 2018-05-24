@@ -17,14 +17,9 @@
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://marekmalik.github.io/conversational-ui/post/co-to-je-dialogovy-system/</guid>
-      <description>Dialogový systém je počítačový program, jehož účelem je komunikovat s člověkem pomocí mluvené řeči.
+      <description>img { display: block; margin-left: auto; margin-right: auto; } .center { display: block; margin-left: auto; margin-right: auto; width: 80%; }  Dialogový systém je počítačový program, jehož účelem je komunikovat s člověkem pomocí mluvené řeči.
 Hlasové dialogové systémy mají široké možnosti uplatnění, kterými jsou např. automatizace hlasových kontaktních center, interaktivní zábava, výuka jazyků, pomoc hendikepovaným a aplikace, kde jsou jiné ovládací a prezentační možnosti zařízení omezené.
-Typicky se tyto systémy skládají z těchto komponentů:
- rozpoznání mluvené řeči
- porozumění přirozenému jazyku
- řízení dialogu
- generování odezvy
- syntéza mluvené řeči</description>
+Typicky se tyto systémy skládají z těchto komponentů:</description>
     </item>
     
     <item>
