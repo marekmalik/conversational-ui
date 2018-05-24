@@ -17,6 +17,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 80%;
+    max-width: 280 px;
 }
 </style>
 
