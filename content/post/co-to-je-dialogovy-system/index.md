@@ -7,17 +7,11 @@ tags:
 ---
 
 <style>
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    max-width: 280 px;
+.ds-img {text-align: center;}
+.ds-img img {max-width: 780px;}
+
+@media (max-width: 1000px) {
+	.ds-img img {max-width: 280px;}
 }
 </style>
 
@@ -39,4 +33,6 @@ Typicky se tyto systémy skládají z těchto komponentů:
 
 Tyto technologie si uvádíme proto, jelikož jsou obsaženy ve většině Conversastional UI a pro dostatečné pochopení určitých funkcionalit jsou fundamentální.
  
-<img src="communication-1809935_1280.png" alt="Communication" class="center">
+ <div class="ds-img">
+![](communication-1809935_1280.png)
+</div>
