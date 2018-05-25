@@ -15,4 +15,4 @@ Kryštof Davídek se o problematiku Conversational UI dříve nezajímal, a prot
 
 # Matouš Přibyl
 
-Matouš Přibyl pracuje jako software administrátor, kde řeší problematiku z oblasti UX UI a vývoj uživatelského prostředí vyvíjeného software. Conversational UI je pro něj zcela novou výzvou, jelikož o tomto tématu moc neví. Nicméně doufá, že ho nadchne.
+Matouš Přibyl pracuje jako software administrátor, kde řeší problematiku z oblasti UX UI a vývoj uživatelského prostředí vyvíjeného software. Conversational UI je pro něj novou výzvou, jelikož o tomto tématu moc neví. Nicméně doufá, že ho nadchne.
